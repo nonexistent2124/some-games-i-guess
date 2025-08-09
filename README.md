@@ -1,4 +1,2 @@
-Hi!
-I like coding in Python, and messing around with Arduinos.
-I live in Michigan.
-I love coding and engineering!
+some games and stuff i made for fun
+you can also play my minesweeper game
